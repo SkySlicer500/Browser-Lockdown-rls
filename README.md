@@ -10,5 +10,6 @@ The browser uses a whitelist to determine what youtube channels are allowed to b
 This is a new variation of the app that is now embedded within a browser to effectively get the information it needs to limit the user's access. Before, this was done through a bot, however those trials proved inconsistent between systems. As well the distributors of the backend used for the bot fell under, resulting in the bot being built in tandem with the browser itself.
 
 # Installing
-Browser Lockdown is currently only available for Windows
+Browser Lockdown is currently only available for Windows.
+
 If you are installing Browser Lockdown for the first time, you should go to the latest release, download the zip folder, unzip the downloading zip folder, then run the setup.exe file. 
