@@ -12,4 +12,4 @@ This is a new variation of the app that is now embedded within a browser to effe
 # Installing
 Browser Lockdown is currently only available for Windows.
 
-If you are installing Browser Lockdown for the first time, you should go to the latest release, download the zip folder, unzip the downloading zip folder, then run the setup.exe file. 
+If you are installing Browser Lockdown for the first time, you should go to the latest release, download the zip folder, unzip the downloaded zip folder, then run the setup.exe file. 
