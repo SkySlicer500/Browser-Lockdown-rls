@@ -13,3 +13,6 @@ This is a new variation of the app that is now embedded within a browser to effe
 Browser Lockdown can be installed for windows.
 
 If you are installing Browser Lockdown for the first time, you should go to the latest release, download the zip folder, unzip the downloaded zip folder, then run the setup.exe file.
+
+# AD Block
+Browser Lockdown uses the UBlock Origin project (https://github.com/gorhill/uBlock) to block ads when watching YouTube videos
