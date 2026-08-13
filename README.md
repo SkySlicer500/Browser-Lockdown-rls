@@ -1,3 +1,5 @@
+<img width="1000" height="1000" alt="browserLockdownLogo" src="https://github.com/user-attachments/assets/822d09c6-33e9-4f9c-b8be-9185fc786482" />
+
 # Browser-Lockdown-rls
 The release repository for the Browser Lockdown project
 
