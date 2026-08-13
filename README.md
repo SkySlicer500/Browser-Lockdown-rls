@@ -1,6 +1,4 @@
-<img width="1000" height="1000" alt="browserLockdownLogoSmall" src="https://github.com/user-attachments/assets/0a070442-4ccc-4da5-af35-d1a5d616b8bf" />
-
-# Browser-Lockdown-rls
+# <img width="100" height="100" alt="browserLockdownLogoSmall" src="https://github.com/user-attachments/assets/ea1211c6-bb6d-413a-bf1a-f85a104569d1" /> Browser-Lockdown-rls
 The release repository for the Browser Lockdown project
 
 Browser Lockdown is a browser software that restricts the internet access of the user, and is particularly designed to be used to restrict a user to specific YouTube channels.
